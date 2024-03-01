@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- [twitter](https://twitter.com/craftgear)
+- [bluesky](@craftgear.bsky.social)
 - [blog](https://craftgear.github.io)
 <!--
 **craftgear/craftgear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

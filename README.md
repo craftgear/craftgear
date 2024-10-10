@@ -3,7 +3,7 @@
 - [🦋 bluesky](https://bsky.app/profile/craftgear.bsky.social)
 - [📫 mail](mailto:craftgear+biz@gmail.com)
 - [🖋️ blog](https://craftgear.github.io)
-- [twitch](https://www.twitch.tv/shun__suke__)
+- [📺 twitch](https://www.twitch.tv/shun__suke__)
 <!--
 **craftgear/craftgear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

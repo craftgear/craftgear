@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Watanabe, Shunsuke.
+### Hi there 👋 I'm Shunsuke Watanabe.
  
 - [🦋 bluesky](https://bsky.app/profile/craftgear.bsky.social)
 - [📫 mail](mailto:craftgear+biz@gmail.com)

@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Watanabe, Shunsuke.
+ 
 - [🦋 bluesky](https://bsky.app/profile/craftgear.bsky.social)
 - [📫 mail](mailto:craftgear+biz@gmail.com)
 - [🖋️ blog](https://craftgear.github.io)

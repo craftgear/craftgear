@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Shunsuke Watanabe.
  
 - [🦋 bluesky](https://bsky.app/profile/craftgear.bsky.social)
-- [📫 mail](mailto:craftgear+biz@gmail.com)
+- [🔑 keybase](keybase://chat/craftgear)
 - [🖋️ blog](https://craftgear.github.io)
 - [📺 twitch](https://www.twitch.tv/shun__suke__)
 - [🧑‍🤝‍🧑 connpass](https://hands-on.connpass.com/event/)

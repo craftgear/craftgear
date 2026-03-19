@@ -1,4 +1,5 @@
 # Hi there 👋 I'm Shunsuke Watanabe.
+A freelance web application developer.
 
 ## Web Services
 
